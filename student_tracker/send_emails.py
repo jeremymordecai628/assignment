@@ -11,10 +11,10 @@ from email.mime.multipart import MIMEMultipart
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_SENDER = "mordecaijeremy@gmail.com"
-EMAIL_PASSWORD = os.getenv("pass")
+EMAIL_PASSWORD = "zlgm mocx dxnv ibeg"
 EXCEL_PATH = "recipients.xlsx"
 EMAIL_COLUMN = "Email"  # Column containing email addresses
-SUBJECT = "Personalized Info Update"
+SUBJECT = "Your Result ARE out"
 
 # ========================
 # EMAIL FUNCTION
